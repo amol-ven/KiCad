@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2940
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP LM3940
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP Tactile_switch
+D DC Barrel Jack
+K DC power barrel jack connector
+$ENDCMP
+#
+#End Doc Library
