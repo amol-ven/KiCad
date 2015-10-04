@@ -34,7 +34,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 4
+Sheet 1 5
 Title ""
 Date ""
 Rev ""
@@ -61,5 +61,11 @@ S 1400 3800 3050 2000
 U 55F6CEC6
 F0 "analog" 60
 F1 "analog.sch" 60
+$EndSheet
+$Sheet
+S 5000 3750 1500 1150
+U 5610330E
+F0 "groundpoints" 60
+F1 "groundpoints.sch" 60
 $EndSheet
 $EndSCHEMATC
