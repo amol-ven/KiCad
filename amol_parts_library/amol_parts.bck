@@ -7,7 +7,7 @@ F regulator\lm78xx.pdf
 $ENDCMP
 #
 $CMP LM3940
-D Linear Regulator +5V
+D Linear Regulator +3V3
 K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
