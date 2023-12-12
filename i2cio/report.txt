@@ -1,0 +1,2 @@
+Updated footprint IC1 (amol_parts_footprints:TQFP-44-1EP_10x10mm_Pitch0.8mm): : OK
+Info: Updated footprint REF** (amol_parts_footprints:TQFP-44-1EP_10x10mm_Pitch0.8mm): : (no changes)

@@ -1,0 +1,82 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 94b5c8d6-288b-4bf3-8faa-fb2c1619d0f6)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 20.32 21.59) (size 36.83 41.91) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-000055f5a7ed)
+    (property "Sheetname" "power" (at 20.32 20.7514 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 20.32 64.1862 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "i2cio"
+        (path "/94b5c8d6-288b-4bf3-8faa-fb2c1619d0f6" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 86.36 27.94) (size 59.69 50.8) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-000055f5fcf3)
+    (property "Sheetname" "AVR" (at 86.36 27.1014 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "AVR.kicad_sch" (at 86.36 79.4262 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "i2cio"
+        (path "/94b5c8d6-288b-4bf3-8faa-fb2c1619d0f6" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 35.56 96.52) (size 77.47 50.8) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-000055f6cec6)
+    (property "Sheetname" "analog" (at 35.56 95.6814 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "analog.kicad_sch" (at 35.56 148.0062 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "i2cio"
+        (path "/94b5c8d6-288b-4bf3-8faa-fb2c1619d0f6" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 127 95.25) (size 38.1 29.21) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005610330e)
+    (property "Sheetname" "groundpoints" (at 127 94.4114 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "groundpoints.kicad_sch" (at 127 125.1462 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "i2cio"
+        (path "/94b5c8d6-288b-4bf3-8faa-fb2c1619d0f6" (page "5"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

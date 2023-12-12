@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "amol_parts_footprints")(type "KiCad")(uri "/home/amol/kicad/KiCad/amol_parts_footprints.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "amol_parts")(type "Legacy")(uri "/home/amol/kicad/KiCad/amol_parts_library/amol_parts.lib")(options "")(descr ""))
+)
